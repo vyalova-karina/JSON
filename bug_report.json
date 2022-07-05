@@ -1,6 +1,6 @@
 {
   "bugNumber": 3,
-  "summary":	"The Moscow can not be selected in the header, delivery information is displayed for the Saint-Petersburg",
+  "summary": "The Moscow can not be selected in the header, delivery information is displayed for the Saint-Petersburg",
   "stepsToReproduce": ["1. Open link: https://amppa.ru/help/delivery/",
                        "2. Select Moscow"],
   
